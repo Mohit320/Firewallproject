@@ -2,7 +2,7 @@
     <div>
      <form @submit="submitdata" method="post">
        
-    <label for="fname">First Name</label>
+    <label for="fname">First Name is mohit tiwari</label>
     <input type="text" name="fname" placeholder="First name " v-model="post.firstname" /><br><br>
     
     <label for="lname">Last Name</label>
