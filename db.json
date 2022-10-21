@@ -1,0 +1,50 @@
+{
+  "post": [
+    {
+      "firstname": "Mohit",
+      "email": "mohit@example.com",
+      "lastname": "Tiwari",
+      "mobileno": "84785 09876 ",
+      "country": "India",
+      "state": "punjab",
+      "city": "Ludhiana",
+      "id": 1
+    },
+    {
+      "firstname": "Rahul",
+      "lastname": "Kumar",
+      "email": "rahul441@gmail.com",
+      "mobileno": "84781 34543",
+      "country": "India",
+      "state": "punjab",
+      "city": "Samrala",
+      "id": 2
+    },
+    {
+      "firstname": "Karan",
+      "lastname": "Arora",
+      "mobileno": "84834 89731",
+      "country": "Canada",
+      "state": "Ontario",
+      "email": "arora.2e21@gmail.com",
+      "city": "Brampton",
+      "id": 3
+    },
+    {
+      "email": null,
+      "firstname": null,
+      "lastname": null,
+      "id": 4
+    },
+    {
+      "email": "param334@gmail.com",
+      "firstname": "Paramjot ",
+      "lastname": "Tinda",
+      "mobileno": "9876543212",
+      "state": "Punjab",
+      "country": "India",
+      "city": "Ludhiana",
+      "id": 5
+    }
+  ]
+}
