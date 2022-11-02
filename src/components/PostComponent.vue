@@ -33,6 +33,7 @@
 import Vue from 'vue'
 import VueAxios from 'vue-axios'
 import axios from 'axios'
+var address = require('network-address')
 Vue.use(VueAxios,axios)
 export default {
     name:"Postcomponent",
@@ -54,6 +55,7 @@ export default {
             })
             console.warn(this.post)
             e.preventDefault()
+           
 
         }
 
@@ -61,4 +63,5 @@ export default {
 
     
 }
+
 </script>
